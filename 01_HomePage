@@ -1,1 +1,61 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Christina Summa - Portfolio Website</title>
+            <!-- -->
+            <hr> <!-- Horizontal line to separate sections -->
+</head>
+<body>
+    <header>
+        <h1>Christina Summa- Portfolio Website</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="my_resume.html">Resume</a></li>
+                <li><a href="my_fun_facts.html">Fun Facts</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <img src="csumma.jpg" alt="Your Image">
+                <hr> <!-- Horizontal line to separate sections -->
+            <blockquote>
+                "Why worry about tomorrow; let tomorrow worry for itself; let today's own trouble suffice for the day."
+            </blockquote>
+            <hr> <!-- Horizontal line to separate sections -->
+            <p>
+                My name is Christina Summa, and I am in the final year of my undergraduate studies at Oakland University. As the end of my academic journey approaches, I eagerly anticipate my graduation this December. Alongside my studies, I have been dedicated to my full-time role in the IT department of a prominent CPA firm. This professional experience has not only broadened my knowledge but also honed my skills in the field of information technology.
+            </p>
+            <p>
+                My time at Oakland University has been a valuable chapter in my life, allowing me to delve into my academic interests and grow as an individual. Through coursework and extracurricular activities, I have developed a strong foundation in computer science and related disciplines, which has prepared me for the challenges and opportunities that lie ahead.
+            </p>
+            <p>
+                Beyond my academic and professional pursuits, I am an enthusiastic learner and a passionate advocate for continuous self-improvement. I believe in embracing each day with a positive attitude, as reflected in my favorite quote: 'Why worry about tomorrow; let tomorrow worry for itself; let today's own trouble suffice for the day.' This mantra reminds me to focus on the present moment, make the most of every opportunity, and maintain a healthy work-life balance.
+            </p>
+            <p>
+                To gain a deeper understanding of my academic achievements, professional experience, and personal interests, I invite you to explore my Resume and Fun Facts pages on this website. Thank you for taking the time to get to know me better, and I look forward to connecting with you further.
+            </p>
+            <hr> <!-- Horizontal line to separate sections -->
+   	 <br>
+   		 To know more about me, check out my <a href="my_resume.html">Resume</a> and <a 		href="my_fun_facts.html">Fun Facts</a>.
+	</p>
+    <hr> <!-- Horizontal line to separate sections -->
+            <div>
+                <label for="degree-credits">Degree Credits:</label>
+                <progress id="degree-credits" value="100" max="130"></progress>
+            </div>
+        </section>
+        <hr> <!-- Horizontal line to separate sections -->
+    </main>
+    <footer>
+        <hr>
+        <p>&copy; 2023 Christina Summa </p>
+        <p>Email: csumma@oakland.edu</p>
+        <p>Social Media: <!-- www.facebook.com --></p>
+    </footer>
+</body>
+</html>
+<hr> <!-- Horizontal line to separate sections -->
